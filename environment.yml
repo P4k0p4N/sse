@@ -8,3 +8,4 @@ dependencies:
   - ipywidgets
   - pandas
   - jupyter_dashboards
+  - xlrd
